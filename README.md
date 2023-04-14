@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer repositorio online de aprendizaje Modulo 2
+Este proyecto es una prueba de como clonar un repositorio desde GITHUB a mi escritorio local.
